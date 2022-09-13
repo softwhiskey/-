@@ -1,0 +1,9 @@
+{
+  "token": "5554675062:AAEEd_gio5vU84M80dM9EX8-1bf0dQxs76k",
+  "commandPrefix":"!",
+  "host": "localhost",
+  "port": "3306",
+  "database": "prototypebotdb",
+  "uid": "admin",
+  "password": "testpass"
+}
